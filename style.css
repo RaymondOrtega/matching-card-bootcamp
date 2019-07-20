@@ -1,0 +1,82 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(back.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-clip: border-box;
+}
+section{
+  background-size: cover;
+  background-position: center;
+  margin: 300px 0 0 0;
+  width: 100%;
+}
+.image{
+  margin: 40px 0 0 0px;
+  background-image: url(port4.gif);
+  height: 186px;
+  width:150px;
+}
+.cardDeck{
+  border-radius: 10%;
+  background-size: cover;
+  background-image: url(stars.jpg);
+  width:10%;
+  border:2px solid black;
+  display: inline-block;
+  height: 250px;
+  margin: 25px 0 0 110px
+}
+.win{
+  display: block;
+  float: left;
+  margin: 0 50% 0 35%;
+}
+.cards{
+  margin: 10px 0 0 0;
+  float: left;
+  display: inline-block;
+  width: 20%;
+  border: 2px solid black;
+}
+img{
+
+}
+.pair1{
+
+  display: inline-block;
+  float: left;
+}
+
+.pair2{
+
+  display: inline-block;
+  float: left;
+}
+
+.pair3{
+
+  display: inline-block;
+  float: left;
+}
+
+.pair4{
+
+  display: inline-block;
+  float: left;
+}
+
+.pair5{
+
+  display: inline-block;
+  float: left;
+}
+
+
+button{
+  background-color: lightgreen;
+  height:50px;
+  width:5%;
+}
